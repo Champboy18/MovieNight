@@ -1,0 +1,37 @@
+[
+{
+  "trending": [
+    {
+      "title": "Oppenheimer",
+      "poster": "https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+      "cast": ["Cillian Murphy", "Emily Blunt", "Matt Damon"],
+      "rating": 8.7,
+      "release_year": 2023,
+      "genre": ["Drama", "History"],
+      "description": "A dramatization of the life of J. Robert Oppenheimer and the creation of the atomic bomb."
+    }
+  ],
+  "popular": [
+    {
+      "title": "Avatar: The Way of Water",
+      "poster": "https://image.tmdb.org/t/p/w500/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+      "cast": ["Sam Worthington", "Zoe Saldana", "Sigourney Weaver"],
+      "rating": 7.8,
+      "release_year": 2022,
+      "genre": ["Action", "Adventure", "Fantasy"],
+      "description": "Jake Sully lives with his newfound family formed on the extrasolar moon Pandora."
+    }
+  ],
+  "top_rated": [
+    {
+      "title": "The Shawshank Redemption",
+      "poster": "https://image.tmdb.org/t/p/w500/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg",
+      "cast": ["Tim Robbins", "Morgan Freeman"],
+      "rating": 9.3,
+      "release_year": 1994,
+      "genre": ["Drama"],
+      "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption."
+    }
+  ]
+}
+]
