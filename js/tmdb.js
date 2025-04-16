@@ -6,7 +6,7 @@ const searchInput = document.getElementById('searchInput');
 const movieModal = document.getElementById('movieModal');
 const modalContent = document.getElementById('modalContent');
 
-fetch('http://localhost/tmdb_clone_static_v2/assets/film.json')
+fetch('https://champboy18.github.io/MovieNight/assets/film.json')
   .then(res => res.json())
   .then(data => {
     movies1 = data;
