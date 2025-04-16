@@ -32,6 +32,8 @@ MovieNight is a movie listing website with functionalities like search,slider,li
 
    <img width="617" alt="screenshot6" src="https://github.com/user-attachments/assets/1fb723cf-165f-4df1-b4ca-e33bae3c23b3" />
 
+Note: Please open the website on pc for best experience.
+
 ## The End..⚔️
 
 Hope you like it.
