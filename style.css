@@ -212,7 +212,7 @@ ul.navitem1 li {
     overflow: hidden;
   }
   
-  .slider img {
+  .carousel-slider img {
     width: 100%;
     height: 100%;
     object-fit: cover;
@@ -786,7 +786,7 @@ body.dark-mode {
     height: 0;
   }
   
-  .slider {
+  .switch-slider {
     position: absolute;
     cursor: pointer;
     top: 0; left: 0;
@@ -796,7 +796,7 @@ body.dark-mode {
     border-radius: 34px;
   }
   
-  .slider::before {
+  .switch-slider::before {
     position: absolute;
     content: "";
     height: 26px; width: 26px;
@@ -806,11 +806,11 @@ body.dark-mode {
     border-radius: 50%;
   }
   
-  input:checked + .slider {
+  input:checked + .switch-slider {
     background-color: #2196F3;
   }
   
-  input:checked + .slider::before {
+  input:checked + .switch-slider::before {
     transform: translateX(26px);
   }
 
